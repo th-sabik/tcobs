@@ -99,6 +99,7 @@
 ### Many Ciphers
 
 | Cipher Count | generic start             | start | range  | value range |
+| -            | -                         | -     | -      | - |
 | 1            |                           |    0  | 0-3    | 0-3 |
 | 2            | 4^1                       |    4  | 0-15   | 4-19 |
 | 3            | 4^1 + 4^2                 |   20  | 0-63   | 20-83 |
